@@ -2,6 +2,7 @@
 #include <iostream>
 #include <string>
 #include <memory>
+#include "Hello.h"
 
 using namespace std;
 
@@ -22,6 +23,8 @@ int main()
 	cout << "intRef: " << *intRef << endl;
 
 	printf("hello from InCentOS!\n");
+
+	Hello();
 
 	system("pause");
     return 0;

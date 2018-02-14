@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.12
+VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InCentOS", "InCentOS\InCentOS.vcxproj", "{66DAC600-1F3D-4BF8-AAC0-2B59D1D1BA13}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PragmaOnce", "PragmaOnce\PragmaOnce.vcxproj", "{55CD3E88-3B2E-45E7-8A75-62795824F90A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,18 @@ Global
 		{66DAC600-1F3D-4BF8-AAC0-2B59D1D1BA13}.Release|x64.Build.0 = Release|x64
 		{66DAC600-1F3D-4BF8-AAC0-2B59D1D1BA13}.Release|x86.ActiveCfg = Release|x86
 		{66DAC600-1F3D-4BF8-AAC0-2B59D1D1BA13}.Release|x86.Build.0 = Release|x86
+		{55CD3E88-3B2E-45E7-8A75-62795824F90A}.Debug|ARM.ActiveCfg = Debug|ARM
+		{55CD3E88-3B2E-45E7-8A75-62795824F90A}.Debug|ARM.Build.0 = Debug|ARM
+		{55CD3E88-3B2E-45E7-8A75-62795824F90A}.Debug|x64.ActiveCfg = Debug|x64
+		{55CD3E88-3B2E-45E7-8A75-62795824F90A}.Debug|x64.Build.0 = Debug|x64
+		{55CD3E88-3B2E-45E7-8A75-62795824F90A}.Debug|x86.ActiveCfg = Debug|x86
+		{55CD3E88-3B2E-45E7-8A75-62795824F90A}.Debug|x86.Build.0 = Debug|x86
+		{55CD3E88-3B2E-45E7-8A75-62795824F90A}.Release|ARM.ActiveCfg = Release|ARM
+		{55CD3E88-3B2E-45E7-8A75-62795824F90A}.Release|ARM.Build.0 = Release|ARM
+		{55CD3E88-3B2E-45E7-8A75-62795824F90A}.Release|x64.ActiveCfg = Release|x64
+		{55CD3E88-3B2E-45E7-8A75-62795824F90A}.Release|x64.Build.0 = Release|x64
+		{55CD3E88-3B2E-45E7-8A75-62795824F90A}.Release|x86.ActiveCfg = Release|x86
+		{55CD3E88-3B2E-45E7-8A75-62795824F90A}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
